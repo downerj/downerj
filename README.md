@@ -1,18 +1,19 @@
 <h1 align="center">Jimmy Downer</h1>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
+## 👩‍💻 About Me
 
 ###
 
-<p align="left">- 📚 I'm currently learning modern C++, OpenGL Core and WebGL.<br>- ⚡ In my free time I 🛼 rollerblade, 🌏 study foreign languages, 👨‍🏫 tutor math and programming, 🕹️ play retro video games and 🐧 reinstall Linux for the millionth time.</p>
+- 📚 I'm currently learning modern C++, OpenGL Core and WebGL.
+- ⚡ In my free time I like to:
+  - 🛼 Rollerblade
+  - 🌏 Study foreign languages
+  - 👨‍🏫 Tutor math and programming
+  - 🕹️ Play retro video games
+  - 🐧 Reinstall Linux for the millionth time
+- 🖲️ Trackball mice FTW!
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+## 🛠 Language and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -74,12 +75,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
-###
+## 🗨️ Social
 
 <div align="left">
   <a href="https://linkedin.com/in/downerj" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-
-###
