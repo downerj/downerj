@@ -75,6 +75,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
+## 🖋️ Blog
+
+You can follow my [blog](blog/README.md) where I discuss things I've learned in programming and software development.
+
 ## 🗨️ Social
 
 <div align="left">
