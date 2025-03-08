@@ -11,7 +11,7 @@
   - 👨‍🏫 Tutor math and programming
   - 🕹️ Play retro video games
   - 🐧 Reinstall Linux for the millionth time
-- 🖲️ Trackball mice FTW!
+- 🖲️ Have you tried a trackball mouse? They're awesome!
 
 ## 🛠 Language and Tools
 
