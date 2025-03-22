@@ -4,14 +4,43 @@
 
 ###
 
-- 📚 I'm currently learning modern C++, OpenGL Core and WebGL.
+- 📚 I'm currently studying [Data Engineering through Coursera](https://www.coursera.org/professional-certificates/ibm-data-engineer).
+- 📚 I'm learning OpenGL and WebGL in my free time.
+- 👨‍🎓 I have a Bachelors of Science in Software Engineering.
 - ⚡ In my free time I like to:
-  - 🛼 Rollerblade
-  - 🌏 Study foreign languages
-  - 👨‍🏫 Tutor math and programming
-  - 🕹️ Play retro video games
-  - 🐧 Reinstall Linux for the millionth time
-- 🖲️ Have you tried a trackball mouse? They're awesome!
+  - 🛼 Go rollerblading.
+  - 🌏 Study foreign languages.
+  - 👨‍🏫 Tutor math and programming.
+  - 🕹️ Play retro video games.
+  - 🎲 Play card and dice games.
+  - 🐧 Reinstall Linux for the millionth time.
+  - 🖲️ Try out new trackball mice.
+- 🌏 Foreign languages I'm learning:
+  - 🇲🇽 Spanish
+  - 🇩🇪 German
+  - 🇯🇵 Japansese
+- 💡 I really want to:
+  - ✈️ Visit East Asia and Germany.
+  - 🎴 Learn how to play Koi Koi and other Hanafuda games.
+  - 🀄 Learn how to play Mahjong.
+- 👨‍💻 My current favorite coding font is [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans).
+  - 🖋️ See my [blog post](blog/2025-03-19.md) for more favorites!
+- 🕹️ Some favorite retro PC games:
+  - [Descent](https://www.gog.com/en/game/descent) & [Descent 2](https://www.gog.com/en/game/descent_2) by Parallax Software
+  - [Star Wars Dark Forces](https://www.gog.com/en/game/star_wars_dark_forces) by LucasArts
+  - [Chex Quest](https://en.wikipedia.org/wiki/Chex_Quest) by General Mills
+  - [The Secret of Monkey Island](https://www.gog.com/en/game/the_secret_of_monkey_island_special_edition) and [Monkey Island 2: LeChuck's Revenge](https://www.gog.com/en/game/monkey_island_2_special_edition_lechucks_revenge) by Lucasfilm Games
+    - Be sure to check out the [Ultimate Talkie Editions](https://gratissaugen.de/ultimatetalkies/)!
+  - [Gobliiins, Gobliins 2 & Goblins Quest 3](https://www.gog.com/en/game/gobliiins_pack) by Coktel Vision
+  - [Jetpack](https://www.adeptsoftware.com/jetpack/) by Adept Software
+  - [Heaven & Earth](https://iangilman.com/software/heavenearth.php) by Buena Vista Software
+    - Ian Gilman has posted a few ports of the  puzzles on [his Substack](https://iangilman.substack.com/).
+    - See more of [Mark Ferrari's art](https://www.markferrari.com/image-archives), including his live demos like [Living Worlds](http://www.effectgames.com/demos/worlds/) and [Canvas Cycle](http://www.effectgames.com/demos/canvascycle/).
+  - [Chip's Challenge](https://en.wikipedia.org/wiki/Chip%27s_Challenge) by Epyx
+
+## 🖋️ Blog
+
+You can follow my [blog](blog/README.md) where I discuss things I've learned in programming and software development.
 
 ## 🛠 Language and Tools
 
@@ -75,14 +104,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
-## 🖋️ Blog
-
-You can follow my [blog](blog/README.md) where I discuss things I've learned in programming and software development.
-
-## 🗨️ Social
-
-<div align="left">
-  <a href="https://linkedin.com/in/downerj" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
