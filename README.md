@@ -4,11 +4,10 @@
 
 ###
 
-- 📚 I'm currently studying [Data Engineering through Coursera](https://www.coursera.org/professional-certificates/ibm-data-engineer).
-- 📚 I'm learning OpenGL and WebGL in my free time.
+- 📚 I'm learning 3D graphics APIs, starting with OpenGL and WebGL.
 - 👨‍🎓 I have a Bachelors of Science in Software Engineering.
 - ⚡ In my free time I like to:
-  - 🛼 Go rollerblading.
+  - 🛼 Go rollerblading and jumping at trampoline parks.
   - 🌏 Study foreign languages.
   - 👨‍🏫 Tutor math and programming.
   - 🕹️ Play retro video games.
